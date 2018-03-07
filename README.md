@@ -1,1 +1,2 @@
-# BMS Client
+# AIMS Client
+Assistance Information & Management System
